@@ -43,7 +43,7 @@
         "name": "Asura Scans",
         "lang": "tr",
         "id": "7963074674054946733",
-        "baseUrl": "https://armoniscans.com",
+        "baseUrl": "https://asurascans.com.tr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -8276,7 +8276,7 @@
         "name": "Asura Scans.us (unoriginal)",
         "lang": "en",
         "id": "5972356691480259456",
-        "baseUrl": "https://asurascans.us",
+        "baseUrl": "https://asurascans.com.tr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18522,7 +18522,7 @@
         "name": "XOXO Comics",
         "lang": "en",
         "id": "2385956107618754468",
-        "baseUrl": "https://xoxocomics.net",
+        "baseUrl": "https://xoxocomics.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22907,10 +22907,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.revived.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-revived-v1.4.43.apk",
+    "apk": "tachiyomi-id.mgkomik-revived-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22919,7 +22919,7 @@
         "name": "MG Komik",
         "lang": "id",
         "id": "5845004992097969882",
-        "baseUrl": "https://mgkomik.id",
+        "baseUrl": "https://id.mgkomik.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24657,7 +24657,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki323.net",
+        "baseUrl": "https://manatoki468.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24665,7 +24665,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki323.com",
+        "baseUrl": "https://newtoki468.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -29621,7 +29621,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywgbo2.com",
+        "baseUrl": "http://www.zerobywtar.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
