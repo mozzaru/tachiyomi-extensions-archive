@@ -22907,10 +22907,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.revived.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-revived-v1.4.44.apk",
+    "apk": "tachiyomi-id.mgkomik-revived-v1.4.45.apk",
     "lang": "id",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
