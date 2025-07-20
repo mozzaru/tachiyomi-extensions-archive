@@ -94,3 +94,5 @@ fun File.getChunk(chunk: Int, chunkSize: Int): List<File>? {
 fun File.eachDir(block: (File) -> Unit) {
     listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
 }
+
+include(":cookiemanager")
